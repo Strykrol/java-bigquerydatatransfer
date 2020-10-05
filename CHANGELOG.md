@@ -1,5 +1,22 @@
 # Changelog
 
+### [1.0.13](https://www.github.com/googleapis/java-bigquerydatatransfer/compare/v1.0.12...v1.0.13) (2020-10-05)
+
+
+### Documentation
+
+* **samples:** add copy dataset ([#389](https://www.github.com/googleapis/java-bigquerydatatransfer/issues/389)) ([37097f8](https://www.github.com/googleapis/java-bigquerydatatransfer/commit/37097f8d1e7745007f39533dc9fcd8256ac2ce3f))
+* **samples:** add delete transfer config ([#388](https://www.github.com/googleapis/java-bigquerydatatransfer/issues/388)) ([61ce27d](https://www.github.com/googleapis/java-bigquerydatatransfer/commit/61ce27d43653ce5f2ae8647370240ec80148399e))
+* **samples:** add disable transfer config ([#384](https://www.github.com/googleapis/java-bigquerydatatransfer/issues/384)) ([533a681](https://www.github.com/googleapis/java-bigquerydatatransfer/commit/533a68158dd92d083aba9e13493e4d66cd3d85df))
+* **samples:** add re-enable transfer config ([#385](https://www.github.com/googleapis/java-bigquerydatatransfer/issues/385)) ([7d61025](https://www.github.com/googleapis/java-bigquerydatatransfer/commit/7d61025046c6172dbe8f1f52bd90324f9a5357c4))
+* **samples:** add schedule backfill ([#390](https://www.github.com/googleapis/java-bigquerydatatransfer/issues/390)) ([96eb331](https://www.github.com/googleapis/java-bigquerydatatransfer/commit/96eb331fdf9d4862d9149bb84d6d2493218db2fc))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-bigquery to v1.122.0 ([#398](https://www.github.com/googleapis/java-bigquerydatatransfer/issues/398)) ([e0edcd7](https://www.github.com/googleapis/java-bigquerydatatransfer/commit/e0edcd7c1a7d22c158ea39ffcb4018dae181c6b0))
+* update dependency com.google.cloud:google-cloud-pubsub to v1.108.3 ([#407](https://www.github.com/googleapis/java-bigquerydatatransfer/issues/407)) ([78e055e](https://www.github.com/googleapis/java-bigquerydatatransfer/commit/78e055e61ead073bda37289043c350b93c8ace50))
+
 ### [1.0.12](https://www.github.com/googleapis/java-bigquerydatatransfer/compare/v1.0.11...v1.0.12) (2020-09-23)
 
 
